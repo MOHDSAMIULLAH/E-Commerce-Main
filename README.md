@@ -1,25 +1,34 @@
+# E-Commerce App
 
-Modern Full Stack ECommerce Application with Stripe & Sanity
-![eCommerce](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
+## Hoisted Link: https://e-commerce-web-main.netlify.app/
 
 
+• Build and Deploy a Modern Full Stack Ecommerce application with Payments functionality using Stripe.</br>
 
-**Build and Deploy a fully responsive Modern Full Stack Ecommerce application with Payments functionality**. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments. This is the best e-commerce website project..
+• Features: It is a web application with Modern design, animations, cart functionalities, and most importantly the complete integration
+with Stripe so that users can cover REAL payments.</br>
 
-In this project, I have learn:
-- Advanced React Best Practices such as
-    - Folder and file structure, hooks and refs
-- Advanced State Management of the entire application using React Context API
-- Next.js Best Practices such as
-    - File-based routing, Data fetching that allows server-side rendering and static generation which makes our websites incredibly optimized (show getServerSideProps, getStaticPaths, getStaticProps), and we have also learnt how to use Next.js as a backend endpoint.
-- we have learnt how to integrate Stripe to manage payments, products, shipping rates, and the entire checkout process
-- And most importantly we have learnt how to manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of our entire app possible. <show sanity desk>
-- Through Sanity, we or our clients will be able to change the store’s homepage and more importantly, the details of all the products in the store, instantly and on the go!
-- Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases. They’ll cover the dirty work for us and allow us to build scalable and modern e-commerce web applications extremely easily.
+• Advanced State Management of the entire application using React Context API.</br>
 
-![image](https://user-images.githubusercontent.com/70088342/160780701-7bb38a57-76bd-49a2-a4ec-49f89c50a7c7.png)
-![image](https://user-images.githubusercontent.com/70088342/160780206-9cfe7c0a-3d8e-4a20-a055-b12efebe6c30.png)
-![image](https://user-images.githubusercontent.com/70088342/160780265-692d37ac-7209-4d53-957a-e94b37d123c0.png)
-![image](https://user-images.githubusercontent.com/70088342/160780381-7c947640-422e-4729-abae-21911e9bc716.png)
-![image](https://user-images.githubusercontent.com/70088342/160780549-111ed048-cd4b-4740-b2fd-2c6fc3520c52.png)
-![image](https://user-images.githubusercontent.com/70088342/160780884-22d6025e-9b7d-4493-8136-b3dfbf00a32f.png)
+• It is a web app with Content Management System (CMS) using Sanity.</br>
+
+• Tech Stack: HTML, CSS, React.js, Material.ui, Next.js, Sanity.io and Stripe.</br>
+
+## Home Page:
+
+![image](https://user-images.githubusercontent.com/91786605/235809885-fb7ebaf4-e309-4cf0-ba23-0b8ce91af3cd.png)
+
+
+## Get Now:
+![image](https://user-images.githubusercontent.com/91786605/235810644-ede6b8c6-0f65-44de-9709-920f74dbd79b.png)
+
+
+## Best Seller Products:
+
+![image](https://user-images.githubusercontent.com/91786605/235810837-09c023fd-f6d9-4ea4-a9a3-58698982e904.png)
+
+![image](https://user-images.githubusercontent.com/91786605/235810137-eb27cf19-a2fc-49f9-bb57-e46c063bb16e.png)
+
+## Footer:
+
+![image](https://user-images.githubusercontent.com/91786605/235810537-b71e4f47-c095-4278-8afb-a4c88d956f71.png)
